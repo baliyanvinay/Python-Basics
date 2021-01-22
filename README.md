@@ -10,5 +10,5 @@ Python is named after the BBC show “Monty Python’s Flying Circus” and has 
 - Dictionary
 
 ### Sources: 
-https://docs.python.org/
+https://docs.python.org/ <br>
 https://www.tutorialspoint.com/python_data_structure/
