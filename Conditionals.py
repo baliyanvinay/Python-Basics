@@ -9,3 +9,6 @@ elif name == 'Vinay':
 else:
     # do this
     pass
+
+if name: # returns True if name is not null
+    pass
