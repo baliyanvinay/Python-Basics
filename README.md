@@ -31,6 +31,19 @@ Errors detected during execution are called Exceptions.
 - Clause runs whether or not the try statement produces an exception.
 
 ## User defined errors
+- Define a class inherited from Exception class.
+
+# Collections module
+## NamedTuple
+Tuple does not support item assignment means they are immutable object, with namedtuple functions such as 'replace' function, item assignment is possible
+
+## DefaultDict
+- defaultdict is the subclass of built in dict class. It overrides one method and adds one writable instance variable.
+- Dictionary throws a KeyError if you try to get an item with a key that is not currently in the dictionary. 
+- defualtdict never raises a KeyError. It provides a default value for the key that does not exists.
+- The remaining functionality is the same as dictionary
+ 
+
 
 ### Sources: 
 https://docs.python.org/ <br>
