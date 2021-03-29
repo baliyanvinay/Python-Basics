@@ -14,6 +14,24 @@ Like other programming langauges control flow statements are similar in Python a
 
 # If Else Elif
 
+# Exception Handling
+Errors detected during execution are called Exceptions. 
+### try
+- If an exception occurs during execution of the try clause, the rest of the clause is skipped
+- Try statement may have more than one except clause, to specify handlers for different exceptions. At most one handler will be executed.
+
+### except
+- An except clause may name multiple exceptions as a parenthesized tuple
+
+## else
+- Else clause is executed when there are no exceptions raised by try block. 
+- Useful in avoid catching accidental exceptions raised in try block. The part that should not throw an error.
+
+## finally
+- Clause runs whether or not the try statement produces an exception.
+
+## User defined errors
+
 ### Sources: 
 https://docs.python.org/ <br>
 https://www.tutorialspoint.com/python_data_structure/
