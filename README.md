@@ -43,6 +43,8 @@ Tuple does not support item assignment means they are immutable object, with nam
 - defualtdict never raises a KeyError. It provides a default value for the key that does not exists.
 - The remaining functionality is the same as dictionary
  
+### References:
+[David Beazley | Keynote: Built in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s&list=RDKMfA13NyV81RlmB3MpxblCSw)
 
 
 ### Sources: 
