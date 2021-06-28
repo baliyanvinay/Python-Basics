@@ -1,12 +1,12 @@
 # Python Data Types
 Python Data types are categorized into -
-1. Numbers
-a. Integrals - Integers, Booleans
-b. Non-Integrals - Floats, Complex, Decimals, Fractions
-2. Collections
-a. Sequences - Mutuable - Lists | Immutable - Tuples, Strings
-b. Sets - Mutuable - Sets | Immutable - Frozen Sets
-c. Mappings - Dictionaries 
+* Numbers
+  * Integrals - Integers, Booleans
+  * Non-Integrals - Floats, Complex, Decimals, Fractions
+* Collections
+  * Sequences - Mutuable - Lists | Immutable - Tuples, Strings
+  *  Sets - Mutuable - Sets | Immutable - Frozen Sets 
+  *  Mappings - Dictionaries 
 
 <b>Insight:</b> Dictionaries and Sets are actually related and are implemented very similarly. Both sets and dictionaries are hashed maps. Dictionaries are key-value pairs but sets are keys(as value) only.
 
