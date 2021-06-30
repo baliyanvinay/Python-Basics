@@ -46,6 +46,10 @@ However when strings are created with spaces, containing the same text, it will 
 
 <b>Insight:</b> Lists and Tuples are ordered sequences while sets are not. Because sets store the values in form of hash keys. 
 
+# Function Parameters
+1. Every parameter after default parameter in a function defination must be a default parameter.
+2. 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 _my_var = 'private variable'. convention to indicate private variables | Objects imported this way shall not be imported into another module like.. from module import _my_var --> Fail
 
