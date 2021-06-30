@@ -47,7 +47,7 @@ However when strings are created with spaces, containing the same text, it will 
 <b>Insight:</b> Lists and Tuples are ordered sequences while sets are not. Because sets store the values in form of hash keys. 
 
 # Function Parameters
-1. Every parameter after default parameter in a function defination must be a default parameter.
+1. Every parameter after default parameter in a function defination must be a default parameter. Same principle goes with named argument. 
 2. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
