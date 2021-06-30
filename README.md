@@ -44,7 +44,8 @@ However when strings are created with spaces, containing the same text, it will 
 >>> text_01 == text_02 # returns True
 ```
 
-<b>Insight:</b> Lists and Tuples are ordered sequences while sets are not.
+<b>Insight:</b> Lists and Tuples are ordered sequences while sets are not. Because sets store the values in form of hash keys. 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 _my_var = 'private variable'. convention to indicate private variables | Objects imported this way shall not be imported into another module like.. from module import _my_var --> Fail
 
