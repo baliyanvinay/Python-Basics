@@ -17,7 +17,9 @@ Python Data types are categorized into -
 - Dicts - {}
 - Sets - {}
 
-<b>Insight:</b> Dictionaries and Sets are actually related and are implemented very similarly. Both sets and dictionaries are hashed maps. Dictionaries are key-value pairs but sets are keys(as value) only.
+<b>Insight:</b> Dictionaries and Sets are actually related and are implemented very similarly. Both sets and dictionaries are hashed maps. Dictionaries are key-value pairs but sets are keys(as value) only. <br>
+<b>Insight:</b> Unpacking also works with dictionaries and sets but because both are unsorted, the order of unpacking is random each time. 
+
 
 ## Callables in Python 
 Anything that can be called using ().
