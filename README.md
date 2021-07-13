@@ -11,12 +11,6 @@ Python Data types are categorized into -
   * None
   * NotImplemented
 
-## Literals
-- List - []
-- Tuple - ()
-- Dicts - {}
-- Sets - {}
-
 <b>Insight:</b> Dictionaries and Sets are actually related and are implemented very similarly. Both sets and dictionaries are hashed maps. Dictionaries are key-value pairs but sets are keys(as value) only. <br>
 <b>Insight:</b> Unpacking also works with dictionaries and sets but because both are unsorted, the order of unpacking is random each time. 
 
@@ -50,7 +44,14 @@ However when strings are created with spaces, containing the same text, it will 
 
 # Function Parameters
 1. Every parameter after default parameter in a function defination must be a default parameter. Same principle goes with named argument. 
-2. 
+
+# First call objects in Python
+- can be passed to a function as an argument
+- can be returned from a function
+- can be assigned to a variable
+- can be stored in a data structure(such as list, tuple, dictionaary etc)
+- Types such as int, float, string, tuple, list and many more are first-class objects
+- Functions(function) are also first-class objects
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 _my_var = 'private variable'. convention to indicate private variables | Objects imported this way shall not be imported into another module like.. from module import _my_var --> Fail
