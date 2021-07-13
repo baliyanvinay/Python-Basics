@@ -43,7 +43,11 @@ However when strings are created with spaces, containing the same text, it will 
 <b>Insight:</b> Lists and Tuples are ordered sequences while sets are not. Because sets store the values in form of hash keys. 
 
 # Function Parameters
-1. Every parameter after default parameter in a function defination must be a default parameter. Same principle goes with named argument. 
+- Every parameter after default parameter in a function defination must be a default parameter. Same principle goes with named argument. 
+
+# Higher-Order Functions
+- takes a function as an argument
+- returns a function
 
 # First call objects in Python
 - can be passed to a function as an argument
